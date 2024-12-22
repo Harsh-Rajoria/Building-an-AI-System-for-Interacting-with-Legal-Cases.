@@ -28,3 +28,6 @@ PyPDF2
 faiss-cpu
 
 langchain_google_genai
+
+
+and also working for better outputs and making it live.
