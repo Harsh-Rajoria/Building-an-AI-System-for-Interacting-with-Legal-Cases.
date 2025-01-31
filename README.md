@@ -29,5 +29,5 @@ faiss-cpu
 
 langchain_google_genai
 
-
+in the report file the photos are of our previous model now the model is totally different. 
 and also working for better outputs and making it live.
